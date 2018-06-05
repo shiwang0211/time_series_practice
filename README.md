@@ -4,5 +4,5 @@
 
 ## Time Series Learn.ipynb
 - Time Series Decomposition
-- Expohential Smoothing
+- Exponential Smoothing
 - ARIMA model
